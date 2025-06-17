@@ -2,6 +2,9 @@
 
 **What Did I Miss?** is a personal dashboard that summarizes what you missed while offline — across numerous news sources and topics — and delivers it as a clean, in-app markdown report.
 
+**Link** Sadly you need to pay $30/month to upload to GitHub but I am not paying that so here's the link: 
+
+https://app.flutterflow.io/run/tG0qZ0d2QrBt5mtz32X6
 ---
 
 ## 🛠 Built With
