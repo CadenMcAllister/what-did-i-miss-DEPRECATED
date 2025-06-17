@@ -31,8 +31,8 @@
 - 🔄 Live loading states and visual feedback during generation.
 - 📄 In-app markdown rendering for clean, readable summaries.
 - 🚀 Supabase Edge Functions for fast, scalable server-side logic.
-- 🌐 AI-driven content discovery and summarization.
-- 
+- 🌐 AI-driven content discovery and summarization
+
 ---
 
 ## 🔐 Auth & Storage
