@@ -1,3 +1,5 @@
+#This repo is now deprecated as it references an old version of What Did I Miss? which will soon be recreated in actual Flutter. Feel free to use this link to explore the site and what it will offer but I cannot guarentee that the site will still work, feel free to try though.
+---
 # What Did I Miss?
 
 **What Did I Miss?** is a personal dashboard that summarizes what you missed while offline — across numerous news sources and topics — and delivers it as a clean, in-app markdown report.
